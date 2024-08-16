@@ -1,0 +1,9 @@
+<h1>ブログの部屋へようこそ！</h1>
+<p>このページでは、日々の出来事を気ままに綴っています</p>
+<div>
+    <% @bloggings.each do |blogging| %>
+        <div class="index-item">
+            <%= link_to(blogging.content,"/blogs/#{blogging.id}") %>
+        </div>
+    <% end %>
+</div>
