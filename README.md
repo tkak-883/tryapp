@@ -1,25 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version:3.3.4
 
-Things you may want to cover:
+* Database creation:コメントの投稿用、ブログ記事用のデータベースを用いております
 
-* Ruby version
+* Services:Google chromeを用いてチェックを行いました
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # tryapp
